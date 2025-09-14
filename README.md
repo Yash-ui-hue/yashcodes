@@ -5,5 +5,5 @@ i am a beginner programmer on journey to become proficient in MERN STACK DEVELOP
 -Author Yash vishwakarma
 
 
-# SIGMA COURSE
-i am enrolled in a mern stack course
+Tech stacks:
+html, css, js , node js, express ,ejs , bootstrap, python , c , mysql
